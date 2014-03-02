@@ -1,13 +1,19 @@
 ======= Cropping the Photo with Jcrop and Uploading with CarrierWave with Rmagick =======
             
-            A Simple Rails 3.2.11 supported app.
+            A Simple Rails 3.2.11 supported App
 
 
             Includes the way to crop the images with its live preview .
 
-             carrierwave (0.9.0) and jquery.Jcrop.js v0.9.12
+             carrierwave (0.9.0) and jquery.Jcrop.js v0.9.12 
+           
+
+
 
              
+             
 
+             
+            
 
 
